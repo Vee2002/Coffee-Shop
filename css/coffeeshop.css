@@ -1,0 +1,36 @@
+.coffee-menu{
+    width: 30em;
+    height: 35em;
+    background-color: burlywood;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 90px;
+}
+.camper-cafe,.Coffee{
+    font-weight: 400;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.coffee-icon{
+    width: 100px;
+    height: 100px;
+}
+.underline{
+    position: relative;
+    bottom: 25px;
+    color: rgb(110, 42, 42);
+}
+.est{
+    /* bottom: 20em; */
+}
+.Desserts{
+    position: relative;
+    top: 10px;
+    font-weight: 400;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.dessert-menu{
+    position: relative;
+    top: 10px;
+}
